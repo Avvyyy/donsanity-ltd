@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Azonto",
+        "images": [
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Thick",
+        "images": [
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Plain Voil",
+        "images": [
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Linen",
+        "images": [
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg",
+            "/img/curtain.jpg"
+        ]
+    }
+]

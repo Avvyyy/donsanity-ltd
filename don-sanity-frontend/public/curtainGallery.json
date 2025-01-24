@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Azonto",
+      "image": "/img/curtain.jpg",
+      "price": 5000,
+      "color": "Brown",
+      "material": "Cotton",
+      "pattern": "Plain",
+      "meta": ["azonto", "brown", "plain", "cotton", "durable"],
+      "description": "A durable and stylish Azonto curtain perfect for cozy interiors."
+    },
+    {
+      "id": 2,
+      "name": "Thick",
+      "image": "/img/curtain.jpg",
+      "price": 7500,
+      "color": "Black",
+      "material": "Velvet",
+      "pattern": "Textured",
+      "meta": ["thick", "black", "velvet", "textured", "elegant"],
+      "description": "A premium thick curtain made of velvet to ensure privacy and elegance."
+    },
+    {
+      "id": 3,
+      "name": "Plain Voil",
+      "image": "/img/curtain.jpg",
+      "price": 4000,
+      "color": "White",
+      "material": "Voil",
+      "pattern": "Plain",
+      "meta": ["voil", "plain", "white", "lightweight", "airy"],
+      "description": "A lightweight plain voil curtain to brighten any room."
+    },
+    {
+      "id": 4,
+      "name": "Linen",
+      "image": "/img/curtain.jpg",
+      "price": 6000,
+      "color": "Beige",
+      "material": "Linen",
+      "pattern": "Textured",
+      "meta": ["linen", "beige", "textured", "natural", "durable"],
+      "description": "A natural and textured linen curtain perfect for modern decor."
+    }
+  ]
+  
